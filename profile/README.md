@@ -14,4 +14,8 @@ The Health Equity Explorer (H2E) is an R Shiny application that enables users to
 ## Background and H2E Demo
 The video below provides an introduction to the rationale behind H2E, as well as a brief demonstation of functionality and features.
 
+https://github.com/BMC-D4E/.github/assets/103575490/d7fcfb8e-c767-43a3-936b-80df96cdd92d
+
 https://github.com/BMC-D4E/.github/assets/103575490/6a5e1f0f-5653-4300-b64f-ed66cf713a2e
+
+
